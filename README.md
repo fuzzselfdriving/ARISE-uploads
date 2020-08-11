@@ -2,8 +2,6 @@
 
 This site is for ARISE Labs
 
-Test Text
-
 youtubeId: qR8UqnwYKo8
 
 Test video:
