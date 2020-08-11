@@ -6,4 +6,4 @@ Test Text
 
 Test video:
 
-{% include youtubePlayer.html id=https://www.youtube.com/watch?v=qR8UqnwYKo8 %}
+{% include youtubePlayer.html id=qR8UqnwYKo8 %}
